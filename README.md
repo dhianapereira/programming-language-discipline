@@ -1,4 +1,4 @@
-<h1 align="center">programming-language-discipline</h1>
+<h1 align="center">C Language</h1>
 
 <p align="center">
   <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
