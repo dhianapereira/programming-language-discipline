@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-acessar-os-conteúdos?">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-acessar-os-conteúdos">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -15,7 +15,7 @@
 - [C](https://github.com/dhianaslv/programming-language-discipline/tree/C-language)
 - [Python](https://github.com/dhianaslv/programming-language-discipline/tree/python-language)
 
-## 🚀 Como acessar os conteúdos?
+## 🚀 Como acessar os conteúdos
 
 > Obs.: Os conteúdos de cada linguagem foi separado por branches
 

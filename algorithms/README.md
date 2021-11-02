@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-algoritmos">Algoritmos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar?">Como executar?</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 5.  Calcule a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro e calcule quantos dias de vida um fumante perderá. Exiba o total em dias. [Clique aqui para acessar o código](05_life_time.c)
 
-## 🚀 Como executar?
+## 🚀 Como executar
 
 - Clone o repositório e acesse a pasta;
 - Na pasta `algorithms` selecione e rode o arquivo com o algoritmo desejado.
