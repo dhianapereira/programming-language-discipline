@@ -1,8 +1,8 @@
-<h1 align="center">C Language</h1>
+<h1 align="center">C-language</h1>
 
 <p align="center">
-  <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-acessar-os-conteúdos">Como acessar os conteúdos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-algoritmos">Algoritmos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -10,16 +10,22 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0000FF&labelColor=000000">
 </p>
 
-## ✨ Linguagens
+## ✨ Algoritmos
 
-- [C](https://github.com/dhianaslv/programming-language-discipline/tree/C-language)
-- [Python](https://github.com/dhianaslv/programming-language-discipline/tree/python-language)
+1.  Calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário. [Clique aqui para acessar o código](algorithms/01_wage_increase.c)
 
-## 🚀 Como acessar os conteúdos
+2.  Solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar. [Clique aqui para acessar o código](algorithms/02_discount_amount.c)
 
-> Obs.: Os conteúdos de cada linguagem foi separado por branches
+3.  Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem. [Clique aqui para acessar o código](algorithms/03_travel_time.c)
 
-- Clique no link da linguagem que você deseja acessar no Tópico `Linguagens` aqui do `README` ou acesse diretamente as opções de branches do Repositório no Github.
+4.  Pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por km rodado. [Clique aqui para acessar o código](algorithms/04_rental_car.c)
+
+5.  Calcule a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro e calcule quantos dias de vida um fumante perderá. Exiba o total em dias. [Clique aqui para acessar o código](algorithms/05_life_time.c)
+
+## 🚀 Como executar
+
+- Clone o repositório e acesse a pasta;
+- Na pasta `algorithms` selecione e rode o arquivo com o algoritmo desejado.
 
 ## 📄 Licença
 
