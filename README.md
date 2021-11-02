@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-acessar-os-conteúdos-?">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-acessar-os-conteúdos?">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
