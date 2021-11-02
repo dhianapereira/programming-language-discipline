@@ -1,7 +1,7 @@
 <h1 align="center">programming-language-discipline</h1>
 
 <p align="center">
-  <a href="#-desenvolva-em-C-um-programa-que-:">Algoritmos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-algoritmos">Algoritmos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar-?">Como executar?</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -9,7 +9,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0000FF&labelColor=000000">
 </p>
 
-## ✨ Desenvolva em C um programa que:
+## ✨ Algoritmos
 
 1.  Calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário. [Clique aqui para acessar o código](01_wage_increase.c)
 

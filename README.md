@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-linguagens">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-acessar-os-conteúdos-?">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-acessar-os-conteúdos-?">Como acessar os conteúdos?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -19,7 +19,7 @@
 
 > Obs.: Os conteúdos de cada linguagem foi separado por branches
 
-- Clique no link da linguagem que você deseja acessar no Tópico `Linguagens` do aqui do `README` ou acesse diretamente as opções de branches do Repositório no Github.
+- Clique no link da linguagem que você deseja acessar no Tópico `Linguagens` aqui do `README` ou acesse diretamente as opções de branches do Repositório no Github.
 
 ## 📄 Licença
 
