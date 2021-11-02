@@ -1,7 +1,3 @@
-# programming-language-discipline
-
-Repositório para guardar os códigos da disciplina de Linguagem de Programação.
-
 <h1 align="center">programming-language-discipline</h1>
 
 <p align="center">
