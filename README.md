@@ -22,6 +22,27 @@
 
 5.  Calcule a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro e calcule quantos dias de vida um fumante perderá. Exiba o total em dias. [Clique aqui para acessar o código](algorithms/05_life_time.py)
 
+6.  Leia três números e que imprima o maior e o menor. [Clique aqui para acessar o código](algorithms/06_larger_and_smaller_number.py)
+
+7.  Pergunte o salário do funcionário e calcule o valor do aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, de 15%. [Clique aqui para acessar o código](algorithms/07_wage_increase_2.py)
+
+8.  Leia dois números e pergunte qual operação o usuário deseja realizar. Você deve poder calcular soma (+), subtração (-), multiplicação (\*) e divisão (/). Exiba o resultado da operação solicitada. [Clique aqui para acessar o código](algorithms/08_calculator.py)
+
+9.  Aprove ou não o empréstimo bancário para compra de uma casa. O programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da prestação como sendo o valor da casa a comprar dividido pelo número de meses a pagar. [Clique aqui para acessar o código](algorithms/09_bank_loan.py)
+
+10. Calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kWh consumida e o tipo de instalação: R para residências, I para indústrias e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir:
+
+        |     Tipo Faixa (kWh)     | Preço   |
+        | :----------------------: | ------- |
+        |   Residencial até 500    | R$ 0,40 |
+        | Residencial acima de 500 | R$ 0,65 |
+        |    Comercial até 1000    | R$ 0,55 |
+        | Comercial acima de 1000  | R$ 0,60 |
+        |   Industrial até 5000    | R$ 0,55 |
+        | Industrial acima de 5000 | R$ 0,60 |
+
+    [Clique aqui para acessar o código](algorithms/10_electric_energy.py)
+
 ## 🚀 Como executar
 
 - Clone o repositório e acesse a pasta;
