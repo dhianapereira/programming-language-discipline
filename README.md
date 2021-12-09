@@ -43,6 +43,16 @@
 
     [Clique aqui para acessar o código](algorithms/10_electric_energy.c)
 
+11. Exiba uma lista de opções (menu): adição, subtração, divisão, multiplicação e sair. Imprima a tabuada da operação escolhida. Repita até a opção saída seja escolhida. [Clique aqui para acessar o código](algorithms/11_calculator_menu.c)
+
+12. Leia um número e verifique se é ou não um número primo. Para fazer essa verificação, calcule o resto da divisão do número por 2 e depois por todos os números ímpares até o número lido. Se o resto de uma dessas divisões for igual a zero, o número não é primo. Observe que o 0 e 1 não são primos e que 2 é o único número primo que é par. [Clique aqui para acessar o código](algorithms/12_prime_number.c)
+
+13. Calcule a raiz quadrada de um número. Utilize o método de Newton para obter um resultado aproximado. Sendo n o número a obter a raiz quadrada, considere a base b=2. Calcule p usando a fórmula p=(b+(n/b))/2. Agora, calcule o quadrado de p. A cada passo, faça b=p e recalcule p usando a fórmula apresentada. Pare quando a diferença absoluta entre n e o quadrado de p for menor que 0,0001. [Clique aqui para acessar o código](algorithms/13_square_root.c)
+
+14. Calcule o resto da divisão inteira entre dois números. Utilize apenas as operações de soma e subtração para calcular o resultado. [Clique aqui para acessar o código](algorithms/14_division_rest.c)
+
+15. Verifique se um número é palíndromo. Um número é palíndromo se continua o mesmo caso seus dígitos sejam invertidos. Exemplos: 454, 10501. [Clique aqui para acessar o código](algorithms/15_palindromo.c)
+
 ## 🚀 Como executar
 
 - Clone o repositório e acesse a pasta;
